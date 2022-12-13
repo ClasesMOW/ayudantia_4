@@ -29,11 +29,11 @@ Vamos a trabajar con datos del proyecto "Juecoo" realizado por investigadores de
 
 9. Agregue a ambas visualizaciones el género como un atributo del nodo y coloree los nodos de acuerdo a este. 
 
-( Finalmente, cree una lista de adjaciencia con pesos para su curso. Esta lista debe tener columnas elementos: from, to, weight (que corresponde al link) y replique la visualización, esta vez agregando un atributo al link que indique el grosor como el peso)
+(Propuesto: Finalmente, cree una lista de adjaciencia con pesos para su curso. Esta lista debe tener columnas elementos: from, to, weight (que corresponde al link) y replique la visualización, esta vez agregando un atributo al link que indique el grosor como el peso)
 
 # Ejercicio 2: Carreras más matriculadas por región.
 
-Para este segundo ejercicio, trabajaremos con la red de carreras. 
+Para este segundo ejercicio, trabajaremos los datos de postulación a carreras universitarias en chile. Para esto contamos con la sigiguiente [carpeta de datos](https://www.dropbox.com/sh/uw9u1wlwi189lbw/AAD9rRWQsBLskP3hexaOk08Ba?dl=0)
 
 Cuando queremos hacer rankings, en general no basta con solo contar la frecuencia de eventos. Tenemos que considerar efectos de tamaños. Por ejemplo, para hacer comparables todas las carreras y todas las regiones, necesitamos considerar la cantidad total de postulantes de cada región y la cantidad de postulaciones a cada carrera. Una medida que controla por estos dos factores es el Balassa Index o RCA.
 
@@ -90,5 +90,6 @@ El ejericio se compone de tres tareas:
 
 1. Replicar el match usando los datos de medicina. Para cada articulo identifique dos clones usando PSM.
 2. Estimar los resultados con nuestro match
-(3. Replicar los resultados con el match de los autores)
+(propuesto: Replicar los resultados con el match de los autores)
+
 3. Comparar los resultados obtenidos con el de los autores
