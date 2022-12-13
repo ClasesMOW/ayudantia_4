@@ -1,8 +1,10 @@
-# Ayudantia 4
+# Ayudantia 4: Práctica de Redes
 
-Clase 4 de ayudantía: Practica de redes
 
-En la clase de ayudantía de hoy pondremos en práctica lo revisado anteriormente. Dividanse en dos grupos y daremos 1 hora y 20 min para cada ejercicio.
+En la clase de ayudantía de hoy pondremos en práctica lo revisado anteriormente. 
+
+Dividanse en dos grupos y daremos 1 hora y 20 min para cada ejercicio.
+
 Al final de la clase, entregue un reporte con sus respuestas. Este puede ser un HTML.
 
 # Ejercicio 1: Redes de cooperación en cursos
