@@ -11,7 +11,7 @@ Al final de la clase, entregue un reporte con sus respuestas. Este puede ser un 
 
 Vamos a trabajar con datos del proyecto "Juecoo" realizado por investigadores de nuestra universidad. Se le entrega un subconjunto anonimizado con una selección de datosdatos disponible en la carpeta. El grupo 1 trabaje con el curso 1 y el grupo 2 con el curso 2.
 
-1. Identificque las variables disponibles con las que cuente y realice una breve estadística descriptiva.
+1. Identifique las variables disponibles con las que cuente y realice una breve estadística descriptiva.
 
 2. Filtre sus datos para el curso con el cual le toca trabajar.
 
