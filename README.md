@@ -62,34 +62,4 @@ Por tanto, el denominador de la ecuación $R_{cp}$ corresponde a las postulacion
 
 
 
-# Ejercicio 3: Matching
 
-Vamos a replicar el estudio [Dynamics of cross-platform attention to retracted papers](https://www.pnas.org/doi/10.1073/pnas.2119086119).
-
-En este trabajo los autores estudian la atención recibida por los papers que han sido retractados. 
-
-Los autores pusieron a disposición de la comunidad un [repositorio en github](https://github.com/haoopeng/retraction_attention) con los datos procesados y los algoritmos usados para obtener los resultados de la investigación. Nosotros contamos con un set de datos alternativos para aproximarnos a su trabajo disponibles en la siguiente [carpeta de dropbox](https://www.dropbox.com/sh/cjfgznuhc3oj3jp/AACNJFqozxyEgrBeX2eBLgI0a?dl=0)
-
-
-Los autores usan tres fuentes de datos: 
-
--  Altmetric que se puede acceder por investigadores en https://www.altmetric.com/research-access/ 
-
--  The Retraction Watch database que está disponible para investigadores del The Center For Scientific Integrity  sujeto a un acuerdo de uso de datos  (detalles en https://retractionwatch.com/retraction-watch-database-user-guide/). 
-
--  The Microsoft Academic Graph is publicly available at https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/ or https://www.microsoft.com/en-us/research/project/open-academic-graph/. 
-  
--  También usan datos de tweets.  Dado resguardo de la privacidad d elos usuarios, Twitter no permite compartir directamente el texto de los tweets. Para cumplir con este requerimiento, los autores proveen una identificación de los tweets como critical/uncritical. (https://developer.twitter.com/en/products/twitter-api/academic-research).
-
-
-Como vemos, varios de estos datos están sujetos a inscripcion de los investigadores y no pueden ser publicados directamente. Los autores ponen a nuestra disposición su código de trabajo (en una colección de notebooks), pero no los datos raw sino procesados.
-
-Con estos datos procesados, podemos replicar directamente las tablas de resultado del trabajo.  Para poder hacer el match nosotros, necesitaremos más datos de los que ellos nos han compartido.
-
-El ejericio se compone de tres tareas:
-
-1. Replicar el match usando los datos de medicina. Para cada articulo identifique dos clones usando PSM.
-2. Estimar los resultados con nuestro match
-(propuesto: Replicar los resultados con el match de los autores)
-
-3. Comparar los resultados obtenidos con el de los autores
