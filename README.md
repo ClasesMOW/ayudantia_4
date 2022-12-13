@@ -39,7 +39,7 @@ Cuando queremos hacer rankings, en general no basta con solo contar la frecuenci
 
 Por lo general, $M_{cp}$ se define como $M_{cp} = 1$ cuando la cantidad de postulaciones a una carrera en una comuna es mayor que lo esperado para una comuna del mismo tamaño y una carrera con la misma cantidad de postulciones.
 
-$$ M_{cp} = 1 \quaq \text{if} \quad R_{cp} \geq 1$$
+$$ M_{cp} = 1 \quad \text{if} \quad R_{cp} \geq 1$$
 
 Donde
 $$ R_{cp}= \fraq{X_{cp}}{X_c X_o / X}$$
